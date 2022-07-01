@@ -1,4 +1,4 @@
-# LinsModIssuesTracker([Chinese version](https://github.com/lijinhong11/LinsModIssuesTracker/))
+# LinsModIssuesTracker([Chinese version](https://github.com/lijinhong11/LinsModIssuesTracker/blob/main/README.md))
 ## This is lins mod issues tracker station
 ### Author linl: https://modrinth.com/user/lijinhong11
 ### If you want to feed back bugs, please write issue according to the following template, otherwise it will be handled as invalid
