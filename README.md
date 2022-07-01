@@ -1,4 +1,4 @@
-# LinsModIssuesTracker([English version](https://github.com/lijinhong11/LinsModIssuesTracker/))
+# LinsModIssuesTracker([English version](https://github.com/lijinhong11/LinsModIssuesTracker/blob/main/README_EN.md))
 ## 这里是Lins模组Bug反馈站
 ### 作者链接: https://modrinth.com/user/lijinhong11
 ### 如果你想反馈Bug，请按照下面的模版写Issue，否则当无效处理
