@@ -6,6 +6,8 @@
 ### 反馈模版:
 ``` 
 反馈Mod: 输入你想反馈Bug的Mod
+装载Mod的版本: 输入装载过此mod的版本
+Mod版本: 输入出bug的mod版本
 Bug: 输入Mod使用过程中出现的Bug
 Bug来源: 输入Bug来源
 截图(可选)
