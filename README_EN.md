@@ -6,7 +6,9 @@
 ### Feedback template:
 ``` 
 Feedback mod: enter the mod you want to feedback the bug
+Version loaded with MOD: enter the version loaded with this mod
+Mod version: enter the bug mod version
 Bug: Enter the bug that appears during the use of mod
-Bug来源: Enter bug source
+Bug source: Enter bug source
 Screenshots(Optional)
 ```
